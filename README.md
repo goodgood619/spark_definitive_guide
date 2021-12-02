@@ -1,3 +1,12 @@
+### spark_definitive_guide
+
+관련 테스트 데이터는 https://github.com/goodgood619/Spark-The-Definitive-Guide 에서 clone을 하시면 됩니다.
+
+<br/><br/>
+
+관련 유의 사항으로는 data들의 위치 (파일 불러오기)를 신경써서 코딩을 하시기 바랍니다.
+
+
 - Chapter2
     - DataFrame
         - 테이블의 데이터를 로우와 컬럼으로 단순하게 표현
